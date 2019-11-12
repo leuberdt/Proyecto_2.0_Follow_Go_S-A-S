@@ -1,0 +1,1 @@
+<h1>Pagina terminos y condiciones</h1>
